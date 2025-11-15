@@ -1,0 +1,32 @@
+{
+    // "window.zoomLevel": 1,
+    // Telemetry
+    "sonarlint.disableTelemetry": true,
+    // Python
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.languageServer": "Pylance",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": false,
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    // https://devblogs.microsoft.com/python/python-in-visual-studio-code-december-2024-release/#pylance-“full”-language-server-mode
+    "python.analysis.languageServerMode": "full",
+    "python.analysis.supportDocstringTemplate": false,
+    // https://code.visualstudio.com/updates/v1_92#_inline-variable-values-in-source-code
+    "debugpy.showPythonInlineValues": false,
+    // https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
+    "ruff.enable": true,
+    "ruff.organizeImports": true,
+    "ruff.configurationPreference": "filesystemFirst",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "cSpell.language": "en",
+    "cSpell.enabled": true,
+}

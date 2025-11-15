@@ -1,0 +1,17 @@
+[project]
+name = "mcp-poc"
+version = "0.1.0"
+description = "MCP server proof-of-concept"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiofiles>=25.1.0",
+    "fastmcp>=2.13.0.2",
+]
+
+[project.optional-dependencies]
+# Run `uv sync --extra dev`
+dev = [
+    "ruff",
+    "mypy>=1.16.1",
+]
