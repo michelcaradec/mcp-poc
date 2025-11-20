@@ -99,7 +99,7 @@ In [Claude Desktop](https://claude.ai/).
 
 note:
 Start the MCP server with: `uv run ./src/weather/main.py --transport streamable-http`.
-Prompts `get_weather_prompt` (tool execution explicitly required), `get_weather_advice_prompt` (tool execution implicitly required, as the LLM needs weather information to answer), `get_where_should_i_go_prompt` (gathering of the favorite cities, and weather retrival for each).
+Prompts `get_weather_prompt` (tool execution explicitly required), `get_weather_advice_prompt` (tool execution implicitly required, as the LLM needs weather information to answer), `get_where_should_i_go_prompt` (gathering of the favorite cities, and weather retrieval for each).
 
 --
 
