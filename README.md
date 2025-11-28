@@ -281,6 +281,7 @@ The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) allows vi
 - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/).
 - [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/zenika/gemini-dans-votre-terminal-avec-gemini-cli-1b6i).
 - [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal](https://github.com/google-gemini/gemini-cli).
+- [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips).
 - [Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor).
 - [Debugging](https://modelcontextprotocol.io/legacy/tools/debugging).
 - [Stumbling into AI: Part 6—I’ve been thinking about Agents and MCP all wrong](https://rmoff.net/2025/11/20/stumbling-into-ai-part-6ive-been-thinking-about-agents-and-mcp-all-wrong/).
