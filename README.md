@@ -279,6 +279,7 @@ The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) allows vi
 - [Beginner’s Guide to Building and Testing Your First MCP Server with uv and Claude](https://mahendranp.medium.com/beginners-guide-to-building-and-testing-your-first-mcp-server-with-uv-and-claude-3bfc6198212a).
 - [Episode #527 - MCP Servers for Python Devs](https://talkpython.fm/episodes/show/527/mcp-servers-for-python-devs).
 - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/).
+- [Assistant IA pour le code : comment ça marche ? J'en ai codé un](https://www.youtube.com/watch?v=TodO0qrsDjw).
 - [🤖 Gemini dans votre terminal avec Gemini CLI](https://dev.to/zenika/gemini-dans-votre-terminal-avec-gemini-cli-1b6i).
 - [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal](https://github.com/google-gemini/gemini-cli).
 - [gemini-cli-tips: Gemini CLI Tips and Tricks](https://github.com/addyosmani/gemini-cli-tips).
