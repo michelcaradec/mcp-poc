@@ -288,3 +288,4 @@ The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) allows vi
 - [Stumbling into AI: Part 6—I’ve been thinking about Agents and MCP all wrong](https://rmoff.net/2025/11/20/stumbling-into-ai-part-6ive-been-thinking-about-agents-and-mcp-all-wrong/).
 - [How MCP Works](https://newsletter.systemdesign.one/p/how-mcp-works).
 - [MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/).
+- [Why MCP Shouldn't Wrap an API One-to-One](https://nordicapis.com/why-mcp-shouldnt-wrap-an-api-one-to-one/).
