@@ -289,3 +289,4 @@ The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) allows vi
 - [How MCP Works](https://newsletter.systemdesign.one/p/how-mcp-works).
 - [MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/).
 - [Why MCP Shouldn't Wrap an API One-to-One](https://nordicapis.com/why-mcp-shouldnt-wrap-an-api-one-to-one/).
+- [datagouv-mcp: Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation](https://github.com/datagouv/datagouv-mcp).
