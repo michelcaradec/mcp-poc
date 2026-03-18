@@ -221,7 +221,7 @@ uv run fastmcp dev ./src/weather/main.py
 note:
 See <https://hiddenlayer.com/innovation-hub/mcp-model-context-pitfalls-in-an-agentic-world/>.
 Token usage explosion: LLM are stateless, so all the context of the session (previous questions, list of MCP tools) is sent with every request, to be reprocessed. The token usage will grow exponentially with the duration of the session, until it reaches the context window limit.
-See <https://www.ibm.com/think/topics/context-window>, <https://guptadeepak.com/complete-guide-to-ai-tokens-understanding-optimization-and-cost-management/>, <https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html> and <https://blog.exe.dev/expensively-quadratic>.
+See <https://www.ibm.com/think/topics/context-window>, <https://guptadeepak.com/complete-guide-to-ai-tokens-understanding-optimization-and-cost-management/>, <https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html>, <https://blog.exe.dev/expensively-quadratic> and <https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/>.
 
 ---
 
